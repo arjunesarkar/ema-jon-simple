@@ -8,7 +8,7 @@ const Heder = () => {
                <nav>
                 <a href="shop">Shop</a>
                 <a href="review">Order Review</a>
-                <a href="manage">Manage Inventory</a>
+                <a href="Invantory">Manage Inventory</a>
                </nav>  
         </div>
     );
